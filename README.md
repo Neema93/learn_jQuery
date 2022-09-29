@@ -1,1 +1,1 @@
-# learn_jQury
+# learn_jQuery
